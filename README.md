@@ -1,16 +1,20 @@
-### Hi there 👋
+![CHECK CABLE](img/vD5c59ms.gif)
 
-<!--
-**cstuder/cstuder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software consultant & architect.
 
-Here are some ideas to get you started:
+## Public personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Blog](https://hymnos.existenz.ch)
+- [Aare.guru](https://aare.guru) (Urban swimming in Berne, Switzerland)
+- [Existenz OpenData-APIs](https://api.existenz.ch)
+
+## Noteworthy OpenSource projects
+
+- [Apprise GitHub Action](https://github.com/cstuder/apprise-ga) (Notifications for every single notification platform there is
+- [parse-swissmetnet](https://github.com/cstuder/parse-swissmetnet) (PHP package to parse SwissMetNet Open Data strings)
+- [parse-hydrodaten](https://github.com/cstuder/parse-hydrodaten) (PHP package to parse Hydrodaten (FOEN/BAFU) Open Data strings)
+
+## Contact
+
+- Personal: [cstuder@existenz.ch](mailto:cstuder@existenz.ch) ([existenz.ch](https://existenz.ch))
+- Professional: [christian.studer@codeblock.ch](mailto:christian.studer@codeblock.ch) ([codeblock.ch](https://codeblock.ch))
