@@ -1,4 +1,4 @@
-![CHECK CABLE](img/vD5c59ms.gif)
+![CHECK CABLE](https://raw.githubusercontent.com/cstuder/cstuder/main/img/vD5c59ms.gif)
 
 Senior software consultant & architect.
 
