@@ -6,11 +6,11 @@ Senior software consultant & architect.
 
 - [Blog](https://hymnos.existenz.ch) (German, miscellaneous subjects, writing since 2005)
 - [Aare.guru](https://aare.guru) (Urban swimming in Berne, Switzerland)
-- [Existenz OpenData-APIs](https://api.existenz.ch)
+- [Existenz OpenData-APIs](https://api.existenz.ch) & [Aare.guru-API](https://aareguru.existenz.ch)
 
 ## Noteworthy Open Source projects
 
-- [Apprise GitHub Action](https://github.com/cstuder/apprise-ga) (Notifications for every single notification platform there is
+- [Apprise GitHub Action](https://github.com/cstuder/apprise-ga) (Notifications for every single notification platform there is)
 - [parse-swissmetnet](https://github.com/cstuder/parse-swissmetnet) (PHP package to parse SwissMetNet Open Data strings)
 - [parse-hydrodaten](https://github.com/cstuder/parse-hydrodaten) (PHP package to parse Hydrodaten (FOEN/BAFU) Open Data strings)
 
