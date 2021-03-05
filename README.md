@@ -1,4 +1,7 @@
-![CHECK CABLE](https://raw.githubusercontent.com/cstuder/cstuder/main/img/vD5c59ms.gif)
+# Christian Studer
+
+![I am C64-old.](https://github.com/cstuder/cstuder/blob/main/img/Commodore64.gif?raw=true)
+_I am C64 old._
 
 Senior software consultant & architect.
 
