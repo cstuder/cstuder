@@ -4,6 +4,8 @@ Senior software consultant & architect.
 
 ![I am C64-old.](https://github.com/cstuder/cstuder/blob/main/img/Commodore64.gif?raw=true)
 
+(I am C64-old.)
+
 ## Public personal projects
 
 - [Blog](https://hymnos.existenz.ch) (German, miscellaneous subjects, writing since 2005)
