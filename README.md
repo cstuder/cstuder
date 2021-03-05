@@ -1,9 +1,8 @@
 # Christian Studer
 
-![I am C64-old.](https://github.com/cstuder/cstuder/blob/main/img/Commodore64.gif?raw=true)
-_I am C64 old._
-
 Senior software consultant & architect.
+
+![I am C64-old.](https://github.com/cstuder/cstuder/blob/main/img/Commodore64.gif?raw=true)
 
 ## Public personal projects
 
