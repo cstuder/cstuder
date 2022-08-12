@@ -11,6 +11,7 @@ Senior software consultant & architect.
 - [Blog](https://hymnos.existenz.ch) (German, miscellaneous subjects, writing since 2005)
 - [Aare.guru](https://aare.guru) (Urban swimming in Berne, Switzerland)
 - [Existenz OpenData-APIs](https://api.existenz.ch) & [Aare.guru-API](https://aareguru.existenz.ch)
+- [rss.existenz.ch](https://rss.existenz.ch) (Handmade RSS feeds for websites which should have them)
 
 ## Noteworthy Open Source projects
 
