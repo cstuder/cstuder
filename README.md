@@ -15,6 +15,7 @@ Senior software consultant & architect.
 
 ## Noteworthy Open Source projects
 
+- [secrethubwarden](https://github.com/cstuder/secrethubwarden) (Synchronize secrets from Bitwarden to GitHub repository secrets)
 - [Apprise GitHub Action](https://github.com/cstuder/apprise-ga) (Notifications for every single notification platform there is)
 - [parse-swissmetnet](https://github.com/cstuder/parse-swissmetnet) (PHP package to parse SwissMetNet Open Data strings)
 - [parse-hydrodaten](https://github.com/cstuder/parse-hydrodaten) (PHP package to parse Hydrodaten (FOEN/BAFU) Open Data strings)
